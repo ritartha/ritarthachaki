@@ -1,0 +1,1 @@
+web gunicorn ritarthachaki.wsgi:application --log-file -
