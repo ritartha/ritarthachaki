@@ -11,3 +11,4 @@ requests==2.24.0
 sqlparse==0.3.1
 static3==0.7.0
 urllib3==1.25.10
+django-heroku==0.3.1
